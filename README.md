@@ -1,7 +1,7 @@
 vodafone-smart-hack
 ===================
 
-Information and Android hacks on Vodafone Smart phones.
+Information and Android hacks for Vodafone smartphones.
 
 ## Vodafone Smart 4 mini
 
@@ -20,6 +20,21 @@ From http://www.vodafone.com/content/index/about/what/devices/smart4mini.html
 > pre-installed services like navigation or voice search.
 
 TODO: Add table
+
+Specification    | Data
+---------------- | -------------
+Dimensions       | 121.6x64.4x12.3mm
+Weight           | 117g with battery
+Colors           | Black or white, with optional yellow and pink accessory pack
+Screen           | 4.0" WVGA TFT 480 x 800 pixels
+Camera           | 3.2 MP camera with Fixed Focus
+Platform (OS)    | Android™ 4.2.2, Jelly Bean
+Chipset          | MTK 6572, Dual-core 1.3GHz
+Memory           | Internal Memory 4GB EMMC + 512MB RAM and MicroSD (up to 32GB)
+Battery Capacity | 1400 mAh
+Networks         | GSM / EDGE / HSPA
+Features         | Wifi 802.11b/g/n,  A-GPS,  BT4.0 A2DP <br> Video: H.263, H.264, MPEG4 <br> Audio: AAC, AAC+, MP3, Midi
+Box content      | MoU Charger, Battery, Quick Start Guide, Micro-USB Cable, 3.5" Stereo Headset
 
 ### Getting Open Source software for Vodafone Smart 4 mini
 
