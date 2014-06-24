@@ -1,6 +1,6 @@
 #!/bin/sh
 
-set -x
+#set -x
 set -e
 
 ARCHIVE_FILENAME=VF785_20140321.tar.xz
