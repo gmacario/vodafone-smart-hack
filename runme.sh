@@ -27,8 +27,11 @@ if [ "${ARCHIVE_SHA1}" != "" ]; then
     sha1sum -c $tmpfile
 fi
 
+# FIXME: ARCHIVE_FILENAME=VF785_20140321.tar.xz returns error
+# Append "|| true" to prevent the script to stop
+
 echo "INFO: Extracting file contents..."
-tar xpvf ${ARCHIVE_FILENAME}
+tar xpvf ${ARCHIVE_FILENAME} || true
 
 rm -f $tmpfile
 
