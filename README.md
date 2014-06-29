@@ -5,9 +5,9 @@ Information and Android hacks for Vodafone smartphones.
 
 ## Vodafone Smart 4 mini
 
-This phone is also known as VF785, and is available from [Vodafone Italy](http://www.vodafone.it).
+This phone - also known as VF785 - is available from [Vodafone Italy](http://www.vodafone.it).
 
-Until 2014-06-31 the phone is sold to only 69.00 EUR - including a 3-month flat-rate 3G Internet contract.
+Until 2014-06-30 the phone is priced at only 69.00 EUR - including a 3-month flat-rate 3G Internet contract.
 
 ### Specifications
 
@@ -36,13 +36,13 @@ Box content      | MoU Charger, Battery, Quick Start Guide, Micro-USB Cable, 3.5
 
 ### Getting Open Source software for Vodafone Smart 4 mini
 
-The software is available on [projects/alcatel Sourceforge](http://sourceforge.net/projects/alcatel)
+The software is available on [Sourceforge:projects/alcatel](http://sourceforge.net/projects/alcatel):
 
     $ wget http://sourceforge.net/projects/alcatel/files/VF785_20140321.tar.xz/download
     
-This project contains a `runme.sh` script which makes it easier to download and uncompress the OSS archive for the VF Smart 4 mini phone.
+This project contains a `runme.sh` script which makes it easier to download and uncompress the OSS archive for the VF785 Smart 4 mini phone.
 
-To execute it, from a command shell change to the project directory then execute
+To execute the script, from a command shell change to the project directory then type
 
     $ ./runme.sh
     
