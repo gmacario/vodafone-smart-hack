@@ -36,9 +36,9 @@ Box content      | MoU Charger, Battery, Quick Start Guide, Micro-USB Cable, 3.5
 
 ### Getting Open Source software for Vodafone Smart 4 mini
 
-The software is available on [Sourceforge:projects/alcatel](http://sourceforge.net/projects/alcatel):
+The software is available on [projects/alcatel at SourceForge](http://sourceforge.net/projects/alcatel):
 
-    $ wget http://sourceforge.net/projects/alcatel/files/VF785_20140321.tar.xz/download
+    $ wget http://sourceforge.net/projects/alcatel/files/VF785_20140325.tar.xz/download
     
 This project contains a `runme.sh` script which makes it easier to download and uncompress the OSS archive for the VF785 Smart 4 mini phone.
 
